@@ -14,6 +14,11 @@ Webfont ikon berbentuk mahkota adat *Siger Lampung*, dalam bentuk flat icon.
 <i class="icon-siger2"></i>
 ```
 
+🧩 Atau Install menggunakan NPM
+```
+npm install siger-icons
+```
+
 Ikon ini bebas digunakan untuk keperluan pribadi dan komersial.
 
 Kunjungi website kami:
