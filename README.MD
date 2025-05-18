@@ -5,7 +5,7 @@ Webfont ikon berbentuk mahkota adat *Siger Lampung*, dalam bentuk flat icon.
 
 1. Tambahkan CSS
 ```
-<link rel="stylesheet" href="path-ke/css/siger.css" />
+<link rel="stylesheet" href="css/siger-icons.css" />
 ```
 
 2. Gunakan di HTML
