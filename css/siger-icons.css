@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'siger-icons';
+  src: url('../fonts/siger-icons.eot');
+  src: url('../fonts/siger-icons.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/siger-icons.woff') format('woff'),
+       url('../fonts/siger-icons.ttf') format('truetype'),
+       url('../fonts/siger-icons.svg#siger-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'siger-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better font rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-siger::before {
+  content: "\e900"; /* Unicode dari IcoMoon */
+}
+
+.icon-siger2:before {
+  content: "\e901";
+}
+
+.icon-lampungdev .path1:before {
+  content: "\e902";
+  color: rgb(246, 234, 58);
+}
+.icon-lampungdev .path2:before {
+  content: "\e903";
+  color: rgb(243, 230, 36);
+}
+.icon-lampungdev .path3:before {
+  content: "\e904";
+  color: rgb(245, 220, 33);
+}
+.icon-lampungdev .path4:before {
+  content: "\e905";
+  color: rgb(228, 155, 30);
+  opacity: 0.3020;
+}
+.icon-lampungdev .path5:before {
+  content: "\e906";
+  color: rgb(228, 155, 30);
+  opacity: 0.5;
+}
+.icon-lampungdev .path6:before {
+  content: "\e907";
+  color: rgb(232, 147, 0);
+  opacity: 0.866;
+}
+.icon-lampungdev .path7:before {
+  content: "\e908";
+  color: rgb(208, 119, 0);
+  opacity: 0.1010;
+}
+.icon-lampungdev .path8:before {
+  content: "\e909";
+  color: rgb(228, 129, 0);
+  opacity: 0.685;
+}
+.icon-lampungdev .path9:before {
+  content: "\e90a";
+  color: rgb(228, 155, 30);
+}
+.icon-lampungdev .path10:before {
+  content: "\e90b";
+  color: rgb(20, 94, 33);
+}
+.icon-lampungdev {
+	position: relative;
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+}
+.icon-lampungdev span {
+	position: absolute;
+	top: 0;
+	left: 0;
+	line-height: 1;
+}

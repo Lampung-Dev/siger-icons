@@ -1,0 +1,16 @@
+{
+  "name": "siger-icons",
+  "version": "1.0.0",
+  "description": "Webfont ikon berbentuk mahkota adat *Siger Lampung*, dalam bentuk flat icon.",
+  "main": "css/siger-icons.css",
+  "keywords": ["siger", "icons", "webfont", "lampung"],
+  "author": "Arief Apriandi",
+  "license": "MIT",
+  "files": [
+    "fonts/",
+    "css/",
+    "README.md",
+    "demo/"
+  ],
+  "homepage": "https://github.com/Lampung-Dev/siger-icons"
+}
